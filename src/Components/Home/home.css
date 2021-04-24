@@ -1,0 +1,16 @@
+.country-list{
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-column-gap: 5px;
+}
+.country-book{
+    text-align: center;
+}
+.country-book h1{
+    font-size: 60px;
+}
+.blank{
+    height:30px;
+    background-color:blueviolet;
+    margin-bottom: 30px;
+}
